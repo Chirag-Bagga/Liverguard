@@ -1,0 +1,12 @@
+Liverguard.code-workspace
+aggregated.csv
+aggregated.xlsx
+data.zip
+.ipynb_checkpoints
+Liver Segmentation Dataset
+model_ros.pkl
+model_sm.pkl
+oversampled_ros.csv
+oversampled_smote.csv
+model.pkl
+data
